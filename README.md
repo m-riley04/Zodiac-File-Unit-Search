@@ -32,5 +32,5 @@ The entire process went off without a hitch. They were not able to get "scans", 
     - ["Original" post](https://www.reddit.com/r/UFOs/comments/1gmv3zn/foia_request_through_department_of_the_air_force/)
     - [Update #1](https://www.reddit.com/r/UFOs/comments/1gqm0ql/update_foia_request_says_alleged_zodiac_records/)
     - [Update #2](https://www.reddit.com/r/UFOs/comments/1i29owh/update_2_naid_40514714_national_archives_file/)
-    - Update #3
+    - [Update #3](https://www.reddit.com/r/UFOs/comments/1i3rfb3/update_3_national_archives_file_unit_titled/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 - [Online "Zodiac" File Unit on archives.gov](https://catalog.archives.gov/id/40514714)
