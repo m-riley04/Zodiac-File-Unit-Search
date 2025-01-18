@@ -13,7 +13,7 @@ This repo is for storing the records and tracking the journey of the Zodiac file
 Endless thanks goes to u/bubbacow2 for volunteering to make the trek. They saved me (and others) a 90-120 day waiting period for these files. See their [post from 2 years ago](https://www.reddit.com/r/UFOs/comments/151a6cs/why_people_with_clearances_dont_post_to_reddit/).
 
 ## Why?
-I love history and learning, and I'm intruiged by witness testimony. Why not?
+I love history and learning, and I'm intrigued by witness testimony. Why not?
 
 ## Documents and Organization
 The repo is structured to be easy to navigate and clearly separates the different file units from each other. Each directory has it's own README for clarity on it's purpose. There are also OCR (text-searchable) PDFs in each of the file unit subdirectories.
