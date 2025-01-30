@@ -2,12 +2,17 @@
 This repo is for storing the records and tracking the journey of the Zodiac file unit ([NAID 40514714](https://catalog.archives.gov/id/40514714)) which is currently (as of January 17, 2025) is not yet available online.
 
 ## Table of Contents
+- [Updates](#updates)
 - [Special Thanks](#special-thanks)
 - [Why?](#why)
 - [Documents and Organization](#documents-and-organization)
 - [National Archives Expedition](#national-archives-expedition)
     - [Results](#results)
 - [Outlinks](#results)
+
+## Updates
+
+_30 January 2025_: I have recieved an email from NARA with the official digital scans of the Zodiac file unit. They are [hosted on OneHub](https://ws.onehub.com/files/un4p95yb). I have downloaded the entire file unit PDF and uploaded it as-is to the repository. This came MUCH faster than I expected it to (since they gave the 90-120 day delivery estimate).
 
 ## Special Thanks
 Endless thanks goes to u/bubbacow2 for volunteering to make the trek. They saved me (and others) a 90-120 day waiting period for these files. See their [post from 2 years ago](https://www.reddit.com/r/UFOs/comments/151a6cs/why_people_with_clearances_dont_post_to_reddit/).
